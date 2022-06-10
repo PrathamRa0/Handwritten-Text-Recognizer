@@ -12,5 +12,12 @@ The system is trained using a CNN model to recognize and differentiate between d
 * Numpy
 
 
+## Dataset sources: ##
+* For character recognition: https://www.kaggle.com/datasets/vaibhao/handwritten-characters
+* For handwritten text recognition: https://www.kaggle.com/datasets/landlord/handwriting-recognition
+
 ## Procedure: ##
-### Step-1: ###
+* **Step-1:** Install the datasets on to the Google colab directly from kaggle, unzip it into the drive, this will save a lot of time.
+* **Step-2:** Use `!pip install imutils` command to make the basic image processing functions easier.
+* **Step-3:** 
+
