@@ -31,6 +31,7 @@ The system is trained using a CNN model to recognize and differentiate between d
 
 
 ## Conclusion: ##
-* This Machine Learning model gave a accuracy of approximately 93%.
+* This Machine Learning model gave an accuracy of approximately 93%.
 * The characters in the images are highlighted, so that comparison with the output is easy.
+
 
